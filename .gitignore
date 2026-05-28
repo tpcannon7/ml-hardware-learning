@@ -1,0 +1,10 @@
+*.vcd
+*.fst
+*.vvp
+systolic/__pycache__/
+*.pyc
+verilog-venv/
+.python-version
+systolic/obj_dir/
+systolic/sim_build/
+*.xml
