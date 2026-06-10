@@ -1,6 +1,6 @@
 SIM ?= verilator
 TOPLEVEL_LANG ?= verilog
-VERILOG_SOURCES += $(PWD)/pe.sv $(PWD)/systolic.sv
+VERILOG_SOURCES += ../rtl/pe.sv ../rtl/systolic.sv
 COCOTB_TOPLEVEL = systolic
 COCOTB_TEST_MODULES = systolic_tb
 

@@ -6,5 +6,5 @@ systolic/__pycache__/
 verilog-venv/
 .python-version
 systolic/obj_dir/
-systolic/sim_build/
+systolic/tb/sim_build/
 *.xml
